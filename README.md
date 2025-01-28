@@ -34,9 +34,7 @@ Hi, I'm Vijayageetha V, a passionate learner and tech enthusiast with a strong f
 - **Role**: Gained hands-on experience connecting Python applications with databases to streamline workflows.  
 
 ## Education  
-- **BS in Data Science** (2022–2026)  
-  *Indian Institute of Technology, Madras*  
-- **BE in Computer Science and Engineering** (2024–2026)  
+- **BE in Computer Science and Engineering** (2022–2026)  
   *St. Joseph's College of Engineering and Technology*  
 
 ## Get in Touch  
